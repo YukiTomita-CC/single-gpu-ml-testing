@@ -1,4 +1,4 @@
-# explorer-use-singleGPU(<= 16GB VRAM)
+# single-gpu-ml-testing
 ## 概要
 比較的安価な単一のNvidia製GPU(VRAM 8GB～16GB)のみを使用し、自然言語処理や音声認識、画像処理プログラムの動作検証を行うリポジトリです。  
 20万円～30万円ほどのミドルクラス家庭用PCで何ができて何ができないのかをまとめることを目標にしています。
